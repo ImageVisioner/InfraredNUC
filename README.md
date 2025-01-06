@@ -39,7 +39,7 @@ Additionally, you can find the metrics for image evaluation in this link, which 
 **Contact**   
 
 If you encounter any problems during use, please do not hesitate to email me.     
-Email:imagevisioner@outlook.com   
+Email:imagevisioner@outlook.com    or lh_010625@163.com
 
 **References** 
 
