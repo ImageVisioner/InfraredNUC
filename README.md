@@ -26,3 +26,27 @@ Email:imagevisioner@outlook.com
 If our work is useful to you please cite us.  
 
 
+**Acknowledgments**   
+Our work has benefited from the National Natural Science Foundation of China. And the work on the following two datasets. Please cite when it is helpful to you.
+``` 
+@article{dataset1,
+  title={Non-uniformity correction of infrared images by midway equalization},
+  author={Tendero, Yohann and Landeau, St{\'e}phane and Gilles, J{\'e}r{\^o}me},
+  journal={Image Processing On Line},
+  volume={2},
+  pages={134--146},
+  year={2012}
+}
+```
+``` 
+@article{dataset2,
+  title={Single-image-based nonuniformity correction of uncooled long-wave infrared detectors: A deep-learning approach},
+  author={He, Zewei and Cao, Yanpeng and Dong, Yafei and Yang, Jiangxin and Cao, Yanlong and Tisse, Christel-L{\"o}ic},
+  journal={Applied optics},
+  volume={57},
+  number={18},
+  pages={D155--D164},
+  year={2018},
+  publisher={Optica Publishing Group}
+}
+``` 
