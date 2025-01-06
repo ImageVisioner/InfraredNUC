@@ -40,8 +40,7 @@ Additionally, you can find the metrics for image evaluation in this link, which 
 <center>
 <img src="figs/restable.jpg" width=75%>
 </center>
-<center><font color=DarkGray size ='1'>QUANTITATIVE EVALUATION OF DIFFERENT METHODS ON REAL AND
-SIMULATED IMAGES.</font></center>
+
 
 
 
