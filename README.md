@@ -71,6 +71,11 @@ This is our simulation and correction test results on the LLVIP dataset.
 We will release our evaluation code after the manuscript is accepted.
 Additionally, you can find the metrics for image evaluation in this link, which will include the NUC metric.
 
+We rewrote the evaluation metric in MATLAB and will release the code once the paper is fully accepted. Click below for a preview link.
+
+https://github.com/ImageVisioner/Image_Fusion_Evaluation_modify
+https://github.com/ImageVisioner/IR-non-uniformity
+
 
 
 
