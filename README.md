@@ -24,17 +24,23 @@ https://github.com/ImageVisioner/IR-non-uniformity
 
 **dataset1**
 
-<div align=center>
-	 <img src="figs/dataset1.jpg"/>
 
-</div>
+
+
+<center>
+<img src="figs/dataset1.jpg" width=80%>
+</center>
+
+
 
 **dataset2**
 
-<div align=center>
-	 <img src="figs/dataset2.jpg"/>
 
-</div>
+
+<center>
+<img src="figs/dataset2.jpg" width=80%>
+</center>
+
 
 
 ***Simulated images***
