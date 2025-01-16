@@ -1,5 +1,5 @@
 # Infrared_NUC
-A non-uniform correction framework for infrared images    
+A non-uniform correction framework for Single-frame  infrared images    
 
 Infrared_NUC code  ,Submitted to IEEE Sensors Journal    
 
