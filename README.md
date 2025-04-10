@@ -1,7 +1,11 @@
+# Update 
+2025.04.10 
+Our manuscript has been accepted and is online in advance, although it is not a fully proofed version. We will release the dataset and evaluation metric code in the near future.  
+
 # Infrared_NUC
 A non-uniform correction framework for Single-frame  infrared images    
 
-Infrared_NUC code  ,Submitted to IEEE Sensors Journal (Major Revised)   
+Infrared_NUC code  ,Submitted to IEEE Sensors Journal (accepted)   
 
 
 We will publicly disclose all code and resources after the paper is accepted. Thank you for your attention.  
