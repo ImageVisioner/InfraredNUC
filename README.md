@@ -117,6 +117,17 @@ will come soon
 **Acknowledgments**   
 
 Our work has benefited from the National Natural Science Foundation of China. And the work on the following two datasets. Please cite when it is helpful to you.
+
+``` 
+@article{liu2025multi,
+  title={Multi-stage non-uniformity correction pipeline for single-frame infrared images based on hybrid high-order directional and low-rank prior information},
+  author={Liu, Chenhua and Li, Hao and Li, Maoyong and Deng, Lei and Dong, Mingli and Zhu, Lianqing},
+  journal={IEEE Sensors Journal},
+  year={2025},
+  publisher={IEEE}
+}
+```
+
 ``` 
 @article{dataset1,
   title={Non-uniformity correction of infrared images by midway equalization},
