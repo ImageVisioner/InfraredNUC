@@ -1,3 +1,7 @@
+# Note  
+
+We have provided both MATLAB and C++ code. The MATLAB code runs perfectly, but the C++ code is currently experiencing formatting errors during conversion, with some parts going out of bounds. I will fix these issues and upload a perfect C++ version as soon as possible.
+
 # Update 
 2025.12.10
 Upload the simulated noise code  
