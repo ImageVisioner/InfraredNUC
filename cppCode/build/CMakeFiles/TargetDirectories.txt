@@ -1,0 +1,3 @@
+/home/liu/桌面/infrared_Destripe/build/CMakeFiles/infrared_destripe.dir
+/home/liu/桌面/infrared_Destripe/build/CMakeFiles/edit_cache.dir
+/home/liu/桌面/infrared_Destripe/build/CMakeFiles/rebuild_cache.dir
