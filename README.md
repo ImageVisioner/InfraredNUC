@@ -1,6 +1,6 @@
 # Note  
 
-We have  named the model MNCP (Multi-stage non-uniformity correction pipeline). You can use this abbreviation when comparing this model in your experiments. Thank you!
+We have  named the model **MNCP** (Multi-stage non-uniformity correction pipeline). You can use this abbreviation when comparing this model in your experiments. Thank you!
 
 
 We have provided both MATLAB and C++ code. The MATLAB code runs perfectly, but the C++ code is currently experiencing formatting errors during conversion, with some parts going out of bounds. I will fix these issues and upload a perfect C++ version as soon as possible.
