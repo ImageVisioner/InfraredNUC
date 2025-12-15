@@ -14,12 +14,9 @@ I = U + S
 - `U`: 清洁图像分量
 - `S`: 条纹噪声分量
 
-优化目标函数：
-```
-min_{U,S} ||D_h U||_1 + λ₁||S||_{2,1} + λ₂||D_v S||_1 + λ₃||D_h(I-S)||_1
-```
 
-### 2. LRA-SVD降噪算法
+
+### 2. 降噪算法
 
 对去条纹后的图像进行进一步降噪，使用基于块匹配和低秩近似的SVD方法：
 
@@ -105,13 +102,9 @@ sigma = 1.0;  % 噪声标准差
 - 最终降噪结果
 - 残留噪声分布
 
-### 量化指标
-
-- PSNR (Peak Signal-to-Noise Ratio)
-- SSIM (Structural Similarity Index)
-
 ### 保存文件
 
 - `destriped_image.png`: 去条纹结果
 - `final_denoised_image.png`: 最终降噪结果
+
 
