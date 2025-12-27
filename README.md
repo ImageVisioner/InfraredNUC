@@ -14,7 +14,7 @@ Note: Our simulation code does not provide batch processing, please make modific
 Our manuscript has been accepted and is online in advance, although it is not a fully proofed version. We will release the dataset and evaluation metric code in the near future.  
 
 # Infrared_NUC
-A non-uniform correction framework for Single-frame  infrared images    
+A non-uniform correction framework for Single-frame  Infrared images    
 
 Infrared_NUC code  ,Submitted to IEEE Sensors Journal (accepted)   
 
