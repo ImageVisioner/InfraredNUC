@@ -25,6 +25,8 @@ Infrared_NUC code  ,Submitted to IEEE Sensors Journal (accepted)
 We will publicly disclose all code and resources after the paper is accepted. Thank you for your attention.  
 
 
+If you'd like to read about hybird  denoising in infrared images, you can check out this link.    
+[https://github.com/ImageVisioner/InfraredNUC/   ](https://github.com/ImageVisioner/IRdenoise)
 
 
 
@@ -126,7 +128,7 @@ will come soon
 
 **Acknowledgments**   
 
-Our work has benefited from the National Natural Science Foundation of China. And the work on the following two datasets. Please cite when it is helpful to you.
+Our work has benefited from the National Natural Science Foundation of China.  Please cite when it is helpful to you.
 
 ``` 
 @article{liu2025multi,
@@ -137,6 +139,17 @@ Our work has benefited from the National Natural Science Foundation of China. An
   publisher={IEEE}
 }
 ```
+
+@article{liu2026infrared,
+  title={Infrared image denoising: A hybrid noise removal pipeline with anti-artifact regularization},
+  author={Liu, Chenhua and Li, Hao and Li, Maoyong and Deng, Lei and Dong, Mingli and Zhu, Lianqing},
+  journal={Optics \& Laser Technology},
+  volume={193},
+  pages={114174},
+  year={2026},
+  publisher={Elsevier}
+}
+``` 
 
 
 
