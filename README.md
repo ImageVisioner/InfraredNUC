@@ -140,6 +140,7 @@ Our work has benefited from the National Natural Science Foundation of China.  P
 }
 ```
 
+``` 
 @article{liu2026infrared,
   title={Infrared image denoising: A hybrid noise removal pipeline with anti-artifact regularization},
   author={Liu, Chenhua and Li, Hao and Li, Maoyong and Deng, Lei and Dong, Mingli and Zhu, Lianqing},
