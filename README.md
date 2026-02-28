@@ -1,8 +1,8 @@
 # Note  
 
-We have  named the model **MNUCP** (Multi-stage non-uniformity correction pipeline)!    
-We have  named the model **MNUCP** (Multi-stage non-uniformity correction pipeline)!    
-We have  named the model **MNUCP** (Multi-stage non-uniformity correction pipeline)!   
+We have  named the model **MNUCP** (Multi-stage non-uniformity correction pipeline)!!     
+We have  named the model **MNUCP** (Multi-stage non-uniformity correction pipeline)!!     
+We have  named the model **MNUCP** (Multi-stage non-uniformity correction pipeline)!!    
 **You can use this abbreviation when comparing this model in your experiments. Thank you!!！**
 
 
