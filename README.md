@@ -132,7 +132,7 @@ Our work has benefited from the National Natural Science Foundation of China.  P
 
 ``` 
 @article{liu2025multi,
-  title={Multi-stage non-uniformity correction pipeline for single-frame infrared images based on hybrid high-order directional and low-rank prior information},
+  title={Multistage non-uniformity correction pipeline for single-frame infrared images based on hybrid high-order directional and low-rank prior information},
   author={Liu, Chenhua and Li, Hao and Li, Maoyong and Deng, Lei and Dong, Mingli and Zhu, Lianqing},
   journal={IEEE Sensors Journal},
   year={2025},
