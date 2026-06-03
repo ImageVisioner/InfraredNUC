@@ -1,6 +1,6 @@
 # Note  
 
-**The official version of the manuscript in the IEEE repository is missing a part in Fig. 16, which has been verified as an error in the proofreading and editing system. I will release the correct LaTeX compiled version to this repo later!!**      
+**The official version of the manuscript in the IEEE repository is missing a part in Fig. 16, which has been verified as an error in the proofreading and editing system. ╮(╯▽╰)╭  We will release the correct LaTeX compiled version to this repo later!!**      
 
 We have  named the model **MNUCP** (Multi-stage non-uniformity correction pipeline)!     
 We have  named the model **MNUCP** (Multi-stage non-uniformity correction pipeline)!      
